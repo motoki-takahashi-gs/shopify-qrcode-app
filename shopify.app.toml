@@ -2,7 +2,7 @@
 
 name = "motoki-2023-09"
 client_id = "d364e4610c640a7d79da7770d6001817"
-application_url = "https://nevertheless-utc-plane-arabia.trycloudflare.com"
+application_url = "https://tin-vault-estonia-asus.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://nevertheless-utc-plane-arabia.trycloudflare.com/auth/callback",
-  "https://nevertheless-utc-plane-arabia.trycloudflare.com/auth/shopify/callback",
-  "https://nevertheless-utc-plane-arabia.trycloudflare.com/api/auth/callback"
+  "https://tin-vault-estonia-asus.trycloudflare.com/auth/callback",
+  "https://tin-vault-estonia-asus.trycloudflare.com/auth/shopify/callback",
+  "https://tin-vault-estonia-asus.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
